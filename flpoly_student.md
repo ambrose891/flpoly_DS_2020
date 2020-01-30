@@ -21,3 +21,10 @@ I am _passionate about_:
 - Thing 2
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
+
+
+|Prefix     | Number       | Name                                                | Credits|
+|----------:|:-------------|-----------------------------------------------------|:------:|
+|  **COP**  |  **2073**    | _INTRODUCTION TO DATA SCIENCE_                      |    3   |
+|  **FIN**  |  **2001**    | _Introduction to Business Finance_                  |    3   |
+|  **BUL**  |  **2241**    | _Law, Public Policy, Negotiation, and Business_     |    3   |
